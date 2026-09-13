@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\SilentEye\bin\Debug\net10.0\SilentEye.exe
+C:\Users\User\Desktop\SilentEye\bin\Debug\net10.0\SilentEye.deps.json
+C:\Users\User\Desktop\SilentEye\bin\Debug\net10.0\SilentEye.runtimeconfig.json
+C:\Users\User\Desktop\SilentEye\bin\Debug\net10.0\SilentEye.dll
+C:\Users\User\Desktop\SilentEye\bin\Debug\net10.0\SilentEye.pdb
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.AssemblyInfo.cs
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.dll
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\refint\SilentEye.dll
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.pdb
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\SilentEye.genruntimeconfig.cache
+C:\Users\User\Desktop\SilentEye\obj\Debug\net10.0\ref\SilentEye.dll
